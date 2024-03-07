@@ -16,7 +16,7 @@ namespace BookMongoDB
 
         public override string ToString()
         {
-            return $"Livro: {Title} ||| Author= {Author}  || Publish Year: {YearPublished}";
+            return $"Livro: {Title} ||| Author= {Author}   || Publish Year: {YearPublished}";
         }
 
     }
